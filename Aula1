@@ -1,0 +1,119 @@
+Molecular distances: vamos calcular similarities entre especies.
+
+Phylogenetics: HC e HN sao pontos de divergencia, onde uma especie se dividiu em especies diferentes. Os valores na arvore são valores de divergencia, sao obtidos atraves de vários calculos de simulação. O primeiro numero refere-se a quanto tempo atras foi feita a divisao, e o segundo é uma especie de margem de erro.
+
+Eukaryotic é a maior, prokaryotic é a menor. DNA é o conteudo do circulo rosa. Apesar do DNA ser o mesmo as celular podem ser diferentes.
+
+Todas as celular do corpo tem o mesmo DNA.
+
+Numero de cells depende da especie. 
+
+Cells formam tecidos e tecidos formam organismos.
+
+Enzimas: geram energia
+
+bps = based pairs/nucleotides
+
+Há uma complementariedade
+
+
+A - T
+C - G
+
+Se for T, A
+Se C, G
+Se G, C
+Se A, T
+
+Olhar a foto que tirei.
+
+Temos 23 pares de cromossomos
+22 pares de autossomos (os mesmos para homem e mulher).
+XX female (23 pares de cromossomos)
+XY male (24 pares de cromossomos)
+
+Gene é uma parte do genoma e diz como produzir proteínas.
+
+3 principais tipos de operações que acontecem nas celulas. Podemos pensar como operações computationais:
+- DNA replication
+- Transcription
+- Translation:
+
+Proteinas não sao diretamente sintetizadas pelo DNA.
+
+Ver foto. Desenho de transcription and translation.
+
+O tamanho de uma stripe de gene é variável, pode ser de 2 a 20 Kbps.
+
+DNA = Sum {A,C,G,T} this is alphabet
+In DNA alphabet we have triplets: 4x4x4 = 64 possible combinations
+Redundancia é pq alguns triplets com as mesmas letras formam o mesmo aminoácido.
+
+UAA Stop: os stops significam o fim de uma sequencia. Há alguns triplets que sao de inicio de sequencia, e alguns sao de final (stop codon).
+
+RNA = Sum {A, C, G, U}
+
+Sum_proteins = {M, V, ..., G} aminoacids 20 differente letters. Procurar por IUPAC code.
+
+nucleotides formam  can build up proteins.
+
+Há algumas formas de ler uma sequencia. A partir da posição 0, a partir da posicao 1, ou a partir da posicao 2. (slide que tem frame 1, frame 2, olha para a chave abaixo da sequencia, a posicao que comeca a ler a sequencia). Também podemos le-los do final para o inicio da sequencia (backwards). Portanto, dada uma sequencia de DNA, temos de buscar as proteinas de 6 formas diferentes, 3 direct strand e 3 backwards.
+
+
+Exercise: 
+
+Human gene ID: 1557
+Full human gene name: CYP2C19 – cytochrome P450 family 2 subfamily C member 19
+List three other species with the same gene: 
+    -- Macaca fascicularis (crab-eating macaque)
+    -- Callithrix jacchus (white-tufted-ear marmoset)
+    -- Pan troglodytes (chimpanzee)
+Chromosomal	location:	
+    -- Chromosome 9, NC_052263.1 (90285098..90340983)
+    -- Chromosome 12, NC_071453.1 (84191196..84293631)
+    -- Chromosome 10, NC_072408.1 (97483213..97618662)
+Exon count: 9 (abrir o record do gene)
+
+Protein	ID: P33261
+Description	of	the	function: 
+    -- A cytochrome P450 monooxygenase involved in the metabolism of polyunsaturated fatty acids (PUFA) (PubMed:18577768, PubMed:19965576, PubMed:20972997).
+Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (NADPH--hemoprotein reductase) (PubMed:18577768, PubMed:19965576, PubMed:20972997).
+Catalyzes the hydroxylation of carbon-hydrogen bonds. Hydroxylates PUFA specifically at the omega-1 position (PubMed:18577768).
+Catalyzes the epoxidation of double bonds of PUFA (PubMed:20972997, PubMed:19965576).
+Also metabolizes plant monoterpenes such as limonene. Oxygenates (R)- and (S)-limonene to produce carveol and perillyl alcohol (PubMed:11950794).
+Responsible for the metabolism of a number of therapeutic agents such as the anticonvulsant drug S-mephenytoin, omeprazole, proguanil, certain barbiturates, diazepam, propranolol, citalopram and imipramine. Hydroxylates fenbendazole at the 4' position (PubMed:23959307).
+
+Similar	Proteins: 
+    -- A0A2D1BII0_HUMAN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
